@@ -4,9 +4,9 @@ Repo containing all my relevant coursework. I uploaded these as HTML files for e
 Analysis-1\
 Analysis-2\
 Analysis-3\
-Analysis-4\
+Analysis-4
 
-NBA Final Paper\
+NBA Final Paper
 
 STOR 455 Homework 1\
 STOR 455 Homework 2\
@@ -15,4 +15,4 @@ STOR 455 Homework 4\
 STOR 455 Homework 5\
 STOR 455 Homework 6\
 STOR 455 Homework 7\
-STOR 455 Homework 8\
+STOR 455 Homework 8
